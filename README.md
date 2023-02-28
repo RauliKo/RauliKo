@@ -1,6 +1,4 @@
-<h2>
 ### Hi there 👋
-</h2>
   
 <!--
 **RauliKo/RauliKo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
