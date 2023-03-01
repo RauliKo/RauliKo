@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ### 😃 This is currently under construction...
 
-<div id='badges'>
+<div id='badges' align=center>
   <a href="https://fi.linkedin.com/in/raulikoskinen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link"/>
 </div>
