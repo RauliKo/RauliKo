@@ -16,6 +16,9 @@ Here are some ideas to get you started:
 -->
 ### 😃 This is currently under construction...
 
+<div id='badges'>
+  
+</div>
 
 ---
 ### 🛠️: Languages and tools:
