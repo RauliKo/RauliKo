@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 <div id='badges'>
   <a href="">
-    <img >
+    <img src= >
 </div>
 
 ---
