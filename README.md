@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <a href="https://fi.linkedin.com/in/raulikoskinen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link"/>
   <a href="https://www.kaggle.com/raulikoskinen">
-    <img src="https://img.shields.io/badge/<LABEL>-Kaggle-orange" alt="Kaggle link"/>
+    <img src="https://img.shields.io/badge/k-Kaggle-orange" alt="Kaggle link"/>
 </div>
 
 ---
