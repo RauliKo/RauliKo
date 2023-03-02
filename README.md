@@ -22,7 +22,9 @@ Here are some ideas to get you started:
   <a href="https://www.kaggle.com/raulikoskinen">
     <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>
 </div>
-<img align=center src="https://komarev.com/ghpvc/?username=RauliKo&style=flat-square&color=blue" alt="visit counter"/>
+<div id='visit counter' align=center>
+  <img src="https://komarev.com/ghpvc/?username=RauliKo&style=flat-square&color=blue" alt="visit counter"/>
+</div>
 ---
 ### 🛠️: Languages and tools:
 
