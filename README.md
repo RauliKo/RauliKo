@@ -30,6 +30,6 @@ Here are some ideas to get you started:
     
 ### 🛠️: Languages and tools:
 <div>
-  
+  <img>
 </div>
 
