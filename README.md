@@ -30,6 +30,6 @@ Here are some ideas to get you started:
     
 ### 🛠️: Languages and tools:
 <div>
-  <img src=""/>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg"/>
 </div>
 
