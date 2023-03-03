@@ -26,9 +26,7 @@ Here are some ideas to get you started:
   <a href="https://fi.linkedin.com/in/raulikoskinen">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn link"/>
   <a href="https://www.kaggle.com/raulikoskinen">
-    <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>
-  <br>
-  <img src="https://komarev.com/ghpvc/?username=<RauliKo>&style=flat-square&color=blue" alt="visit counter"/>
+    <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>  
 </div>
 
 ---
