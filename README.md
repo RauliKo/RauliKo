@@ -30,6 +30,7 @@ Here are some ideas to get you started:
 </div>
 <div id='visit counter' align=center>
   <img src="https://komarev.com/ghpvc/?username=RauliKo" alt="visit counter"/>
+  ![](https://komarev.com/ghpvc/?username=RauliKo)
 
 </div>    
 
