@@ -14,6 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
 <details>
   <Summary><b>
     ### ✨About me</b>
@@ -30,7 +31,8 @@ Here are some ideas to get you started:
 <div id='visit counter' align=center>
   <img src="https://komarev.com/ghpvc/?username=RauliKo&style=flat-square&color=blue" alt="visit counter"/>
 </div>    
----
+
+    ---
     
 ### 🛠️: Languages and tools:
 <div>
