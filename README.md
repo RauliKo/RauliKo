@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <details>
   <Summary><b>
-    ### ✨About me</b>
+     ✨About me</b>
   </Summary><br>
   I am Rauli from Finland.
 </details>
