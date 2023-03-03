@@ -14,8 +14,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-About me:
-I am Rauli from Finland.
+<details>
+  <Summary><b>
+    ### ✨About me</b>
+  </Summary><br>
+  I am Rauli from Finland.
+</details>
 
 <div id='badges' align=center>
   <a href="https://fi.linkedin.com/in/raulikoskinen">
