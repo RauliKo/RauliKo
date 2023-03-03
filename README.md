@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>  
 </div>
 
----
+--
     
 ### 🛠️: Languages and tools:
 <div>
