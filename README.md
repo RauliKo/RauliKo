@@ -32,7 +32,7 @@ Here are some ideas to get you started:
   <img src="https://komarev.com/ghpvc/?username=RauliKo&style=flat-square&color=blue" alt="visit counter"/>
 </div>    
 
-    ---
+---
     
 ### 🛠️: Languages and tools:
 <div>
