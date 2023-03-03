@@ -19,7 +19,7 @@ Here are some ideas to get you started:
   <Summary><b>
     ### ✨About me</b>
   </Summary><br>
-  I am Rauli from Finland.
+  I am Rauli from Finland. &style=flat-square&color=blue
 </details>
 
 <div id='badges' align=center>
@@ -29,7 +29,8 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>
 </div>
 <div id='visit counter' align=center>
-  <img src="https://komarev.com/ghpvc/?username=RauliKo&style=flat-square&color=blue" alt="visit counter"/>
+  <img src="https://komarev.com/ghpvc/?username=RauliKo" alt="visit counter"/>
+
 </div>    
 
 ---
