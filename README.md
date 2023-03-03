@@ -30,7 +30,7 @@ Here are some ideas to get you started:
   <br>
   <img src="https://komarev.com/ghpvc/?username=<RauliKo>&style=flat-square&color=blue" alt="visit counter"/>    
 </div>
-![GitHub Views](https://komarev.com/ghpvc/?username=<RauliKo>)
+
 ---
     
 ### 🛠️: Languages and tools:
