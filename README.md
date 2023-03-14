@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <Summary><b>
      ✨About me</b>
   </Summary><br>
-  I am Rauli from Finland.
+  I'm Rauli from Finland. 
 </details>
 
 <div id='badges' align=center>
