@@ -30,7 +30,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>  
 </div>
 <div id='counter' align=center>
-  <img src="https://visitcount.itsvg.in/api?id=RauliKo&label=View%20Count" alt="Visitor counter"/>
+  <img src="https://visitcount.itsvg.in/api?id=RauliKo" alt="Visitor counter"/>
 </div>
 
 ---
