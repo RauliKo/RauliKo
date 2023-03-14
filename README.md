@@ -23,7 +23,7 @@ Here are some ideas to get you started:
   I am Rauli from Finland.
 </details>
 <p>
-  Here are links to my profiles:
+  Here are links to my profiles elsewhere:
 </p>
 <div id='badges' align=center>
   <a href="https://fi.linkedin.com/in/raulikoskinen">
