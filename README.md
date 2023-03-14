@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <Summary><b>
      ✨About me</b>
   </Summary><br>
-  I'm Rauli from Finland. 
+  I am Rauli from Finland.
 </details>
 
 <div id='badges' align=center>
@@ -29,6 +29,7 @@ Here are some ideas to get you started:
   <a href="https://www.kaggle.com/raulikoskinen">
     <img src="https://img.shields.io/badge/k-Kaggle-darkgreen?style=for-the-badge&labelColor=white" alt="Kaggle link"/>  
 </div>
+  <a href="https://visitcount.itsvg.in/api?id=VishwaGauravIn&label=View%20Count" alt="Visitor counter"/>
 
 ---
     
